@@ -1,9 +1,11 @@
 # treeviewSandbox
 
-# Based on angularPlayground by taber
+Based on angularPlayground by taber
 
-# https://github.com/tabersays/angularPlayground.git
+https://github.com/tabersays/angularPlayground.git
 
-npm install
-then 
-npm start
+<bold>Follow instructions to run:</bold>
+<ul>
+<li>npm install
+<li>npm start
+</ul>
