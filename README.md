@@ -1,6 +1,6 @@
 # treeviewSandbox
 
-Based on angularPlayground by taber
+Based on angularPlayground by [taber](https://github.com/tabersays)
 
 https://github.com/tabersays/angularPlayground.git
 
